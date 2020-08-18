@@ -1414,6 +1414,21 @@ a {
 .cid-s7KviYfvdv a.close:hover {
   color: #ffffff;
 }
+.cid-s7ZEdewAsa {
+  background-image: url("../../../assets/images/hero-tv-clqffk6fuhg2-large-2x-2000x1132.jpg");
+}
+.cid-s7ZEdewAsa H1 {
+  color: #e2090d;
+}
+.cid-s7ZEdewAsa h1 {
+  background: linear-gradient(to left, #fc5130, currentColor);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.cid-s7ZEdewAsa .mbr-text,
+.cid-s7ZEdewAsa .mbr-section-btn {
+  color: #999999;
+}
 .cid-s1YMd28qy4 {
   padding-top: 15px;
   padding-bottom: 0px;
