@@ -62,7 +62,8 @@
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "",
+        "meta_image": "@PROJECT_PATH@/assets/images/frame-2-1106x755.png"
       },
       "components": [
         {
