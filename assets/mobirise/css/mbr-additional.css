@@ -1170,9 +1170,26 @@ a {
 .cid-s7RJA2rEmK .mbr-section-btn {
   color: #999999;
 }
+.cid-s9mIlvtmnQ {
+  padding-top: 30px;
+  padding-bottom: 0px;
+  background-color: #000000;
+}
+.cid-s9mIlvtmnQ H1 {
+  color: #e2090d;
+}
+.cid-s9mIlvtmnQ h1 {
+  background: linear-gradient(to left, #fc5130, currentColor);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.cid-s9mIlvtmnQ .mbr-text,
+.cid-s9mIlvtmnQ .mbr-section-btn {
+  color: #999999;
+}
 .cid-s7ZMQvIgMn {
-  padding-top: 90px;
-  padding-bottom: 75px;
+  padding-top: 15px;
+  padding-bottom: 30px;
   background-color: #000000;
 }
 .cid-s7ZMQvIgMn img {
