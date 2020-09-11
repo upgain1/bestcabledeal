@@ -1544,7 +1544,7 @@ a {
   background-image: url("../../../assets/images/tremendous-tiles-4-cslj5am0ka6a-large-2x-658x988.jpg");
 }
 .cid-s7ZMUps0iq .card2 {
-  background-image: url("../../../assets/images/tremendous-tiles-1-ekzyppb484ya-large-2x-658x988.jpg");
+  background-image: url("../../../assets/images/tremendous-tiles-1-ekzyppb484ya-large-2x-658x988.jpeg");
 }
 .cid-s7ZMUps0iq .card3 {
   background-image: url("../../../assets/images/tremendous-tiles-6-bj5hgd9ioniq-large-2x-658x988.jpg");
@@ -1602,7 +1602,7 @@ a {
   width: 100%;
   height: 100%;
   background: black;
-  opacity: 0.2;
+  opacity: 0;
   z-index: 1;
 }
 @media (max-width: 992px) {
@@ -1614,7 +1614,7 @@ a {
     opacity: 1;
   }
   .cid-s7ZRzdyhSR .card-wrapper:after {
-    opacity: 0.7;
+    opacity: 0;
     background: linear-gradient(to left, #fc5130, #e2090d);
   }
 }
