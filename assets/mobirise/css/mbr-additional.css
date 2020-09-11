@@ -1527,10 +1527,10 @@ a {
   }
   .cid-s7ZMUps0iq .card .mbr-text,
   .cid-s7ZMUps0iq .card .card-title {
-    opacity: 1;
+    opacity: 10;
   }
   .cid-s7ZMUps0iq .card-wrapper:after {
-    opacity: 0.7;
+    opacity: 0;
     background: linear-gradient(to left, #fc5130, #e2090d);
   }
 }
